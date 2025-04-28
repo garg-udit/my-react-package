@@ -1,0 +1,23 @@
+{
+  "name": "my-react-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garg-udit/my-react-package.git"
+  },
+  "author": "Udit Garg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garg-udit/my-react-package/issues"
+  },
+  "homepage": "https://github.com/garg-udit/my-react-package#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
